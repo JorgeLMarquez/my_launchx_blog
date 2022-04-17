@@ -9,6 +9,11 @@
       "name": "github",
       "url": "https://github.com/JorgeLMarquez",
       "image": "images/social/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/jluismarq/",
+      "image": "images/social/linkedin.svg"
     }
   ]
 }
