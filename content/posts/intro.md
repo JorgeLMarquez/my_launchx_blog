@@ -12,3 +12,5 @@ Un desarrollador de software debe:
 - Tener lógica para la creación de apps. 
 - Ser respetuoso.
 - Siempre querer aprender cosas nuevas
+
+![wallhaven-72vwpo](https://user-images.githubusercontent.com/99061178/178163842-8dc3abdc-c676-4aac-84cd-2894a54dfe3d.jpg)
