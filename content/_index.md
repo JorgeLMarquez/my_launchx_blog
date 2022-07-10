@@ -9,7 +9,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
 Los proyectos que encontrarás son: 
-* Skydelight: App móvil para reducir el estrés en estudiantes
-* Kelp me!: Sitio Web realizado con colegas en un Hackthon!!! 
-* Orientutor: App móvil para orientar a los padres
+1.Skydelight: App móvil para reducir el estrés en estudiantes
+2.Kelp me!: Sitio Web realizado con colegas en un Hackthon!!! 
+3.Orientutor: App móvil para orientar a los padres
 🚀
