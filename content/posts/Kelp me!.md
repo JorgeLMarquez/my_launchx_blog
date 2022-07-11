@@ -18,7 +18,7 @@ separados físicamente uno del otro!!!
 
 Este proyecto si tomo vida ya que lo programamos, y tiene un repositorio en Github!! 
 
-[Kelp me! en github](https://ithub.com/OscarGPDev/Kelpme)
+[Kelp me! en github](https://github.com/OscarGPDev/Kelpme)
 
 Lo que aprendí de este proytecto es que desplegar una aplicación es algo pesado y que conlleva tiempo, ya que debes aprovisionar recursos en la nube de servicios
 serverless, bucket storage y de static web apps!!, por cierto usamos la nube de azure!!!
