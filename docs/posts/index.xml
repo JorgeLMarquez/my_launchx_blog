@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jorgelmarquez.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>SkyDelight</title>
+      <link>https://jorgelmarquez.github.io/my_launchx_blog/posts/skydelight_post/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jorgelmarquez.github.io/my_launchx_blog/posts/skydelight_post/</guid>
+      <description>SkyDelight es una aplicación móvil Android para realizar “test” y recomendaciones relacionadas con el estrés en estudiantes universitarios de entre 18 a 25 años, la cuál tomé el rol el rol de diseñador UX y codificador.
+Esto lo encontramos a través de una encuesta realizada por Microsoft Forms, se identificó que los estudiantes universitarios de ESCOM sufren de altos niveles de estrés. Por lo que les pareció interesante usar una aplicación que les de recomendaciones que los apoyé en su vida cotidiana.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un profesional de software</title>
       <link>https://jorgelmarquez.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
