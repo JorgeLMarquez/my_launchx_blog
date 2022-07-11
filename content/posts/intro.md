@@ -5,12 +5,12 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 Un desarrollador de software debe: 
-- Tener soft skills.
-- Conocer sus herramientas de trabajo.
-- Decir buenos chistes, para mantener el ánimo.
-- Hacer ejercicio físico, para mantener su cuerpo sano.
-- Tener lógica para la creación de apps. 
-- Ser respetuoso.
-- Siempre querer aprender cosas nuevas
+- +Tener soft skills.
+- +Conocer sus herramientas de trabajo.
+- +Decir buenos chistes, para mantener el ánimo.
+- +Hacer ejercicio físico, para mantener su cuerpo sano.
+- +Tener lógica para la creación de apps. 
+- +Ser respetuoso.
+- +Siempre querer aprender cosas nuevas
 
-![wallhaven-72vwpo](https://user-images.githubusercontent.com/99061178/178163842-8dc3abdc-c676-4aac-84cd-2894a54dfe3d.jpg)
+
